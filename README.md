@@ -1,2 +1,2 @@
 ## Hello
-[CEM Instrumentaions](https://www.cem-instrumentations.com/)
+[CEM Instrumentations](https://www.cem-instrumentations.com/)

@@ -1,2 +1,2 @@
 ## Hello
-![:)](https://wwww.gi-gi.dev)
+[:)](https://wwww.gi-gi.dev)

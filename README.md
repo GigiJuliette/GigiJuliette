@@ -1,2 +1,2 @@
 ## Hello
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GigiJuliette&show_icons=true)

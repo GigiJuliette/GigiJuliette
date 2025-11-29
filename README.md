@@ -14,7 +14,7 @@ React • TypeScript • JavaScript • Vite • Framer Motion • SCSS • HTML
 
 ## 🌟 Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/gigijuliette/])
+- [LinkedIn](https://www.linkedin.com/in/gigijuliette/)
 - [Email](mailto:gigialiasjuliette@gmail.com)
 
 ---

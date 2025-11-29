@@ -2,11 +2,7 @@
 
 ## 🌟 About Me
 
-Web developer in training, building interactive applications with a strong interest in web animations.
-
-- Currently learning React, TypeScript, and modern web development
-- Passionate about frontend development and animations
-- France | Fluent in French & English
+Frontend developer passionate about creating interactive web experiences with smooth animations. Based in France (Toulouse), fluent in French & English.
 
 ## 🌟 Tech Stack
 

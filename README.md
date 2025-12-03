@@ -1,4 +1,4 @@
-## Hi ! I'm Kika and I'm a french student in Web Development 💛
+## Hi ! I'm Gigi and I'm a french student in Web Development 💛
 
 ## 🌟 About Me
 

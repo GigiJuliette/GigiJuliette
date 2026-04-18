@@ -6,7 +6,7 @@ Frontend developer passionate about creating interactive web experiences with sm
 
 ## 🌟 Tech Stack
 
-React • TypeScript • JavaScript • Vite • Framer Motion • SCSS • HTML/CSS • SQL • NoSQL • Git
+React • TypeScript • JavaScript • Nextjs • Framer Motion • SCSS • HTML/CSS • SQL • NoSQL • Git
 
 ## 🌟 Let's Connect
 

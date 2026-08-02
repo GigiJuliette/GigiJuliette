@@ -6,13 +6,10 @@ Fullstack developer passionate about creating interactive web experiences with s
 
 ## 🌟 Tech Stack
 
-React • TypeScript • JavaScript • Nextjs • Framer Motion • SCSS • HTML/CSS • SQL • NoSQL • Git
+React • TypeScript • Nextjs • Framer Motion • SCSS • PRISMA • DRIZZLE • MONGODB 
 
 ## 🌟 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/gigijuliette/)
 - [Email](mailto:gigialiasjuliette@gmail.com)
 
----
-
-*Always learning, always building*
